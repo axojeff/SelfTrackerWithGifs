@@ -24,7 +24,8 @@ public static class NameChangePatch
             ""title"": ""{Plugin.Instance.PlayerName.Value} has joined code `{Plugin.Instance.CurrentRoomName}`"",
             ""description"": ""In game name: `{name}`\nPlayers in room: `{NetworkSystem.Instance.RoomPlayerCount}`\nMap: `{map}`\nPublic room: `{PhotonNetwork.CurrentRoom.IsVisible}`\nIs Modded: `{NetworkSystem.Instance.GameModeString.Contains("MODDED")}`\nGamemode: `{Plugin.Instance.GetGamemodeKey(NetworkSystem.Instance.GameModeString)}`\nQueue: `{Plugin.Instance.GetQueueKey(NetworkSystem.Instance.GameModeString)}`"",
             ""color"": 7415295,
-            ""footer"": {{ ""text"": ""Self Tracker by HanSolo1000Falcon"" }}
+            """"image"""": {{{{ """"url"""": """"https://raw.githubusercontent.com/axojeff/AxosGorillaInfo/refs/heads/main/JoinLobby.gif"""" }}}},
+            ""footer"": {{ ""text"": ""Self Tracker by HanSolo1000Falcon, and Forked by ModdedAxo"" }}
         }}
     ]
 }}";

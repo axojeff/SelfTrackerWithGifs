@@ -57,7 +57,7 @@ public class Plugin : BaseUnityPlugin
         {{
             ""title"": ""{PlayerName.Value} has started Gorilla Tag"",
             ""color"": 7415295,
-            ""image"": {{ ""url"": ""https://raw.githubusercontent.com/axojeff/AxosGorillaInfo/refs/heads/main/OpenGame.gif"" }},
+            ""image"": {{ ""url"": ""https://images.elliemese.win/OpenGame.gif"" }},
             ""footer"": {{ ""text"": ""Self Tracker by HanSolo1000Falcon, and Forked by ModdedAxo"" }}
         }}
     ]
@@ -89,7 +89,7 @@ public class Plugin : BaseUnityPlugin
             ""title"": ""{PlayerName.Value} has joined code `{CurrentRoomName}`"",
             ""description"": ""In game name: `{PhotonNetwork.LocalPlayer.NickName}`\nPlayers in room: `{NetworkSystem.Instance.RoomPlayerCount}`\nMap: `{map}`\nPublic room: `{PhotonNetwork.CurrentRoom.IsVisible}`\nIs Modded: `{NetworkSystem.Instance.GameModeString.Contains("MODDED")}`\nGamemode: `{GetGamemodeKey(NetworkSystem.Instance.GameModeString)}`\nQueue: `{GetQueueKey(NetworkSystem.Instance.GameModeString)}`"",
             ""color"": 7415295,
-            ""image"": {{ ""url"": ""https://raw.githubusercontent.com/axojeff/AxosGorillaInfo/refs/heads/main/JoinLobby.gif"" }},
+            ""image"": {{ ""url"": ""https://images.elliemese.win/JoinLobby.gif"" }},
             ""footer"": {{ ""text"": ""Self Tracker by HanSolo1000Falcon, and Forked by ModdedAxo"" }}
         }}
     ]
@@ -115,7 +115,7 @@ public class Plugin : BaseUnityPlugin
             ""title"": ""{PlayerName.Value} has joined code `{CurrentRoomName}`"",
             ""description"": ""In game name: `{PhotonNetwork.LocalPlayer.NickName}`\nPlayers in room: `{NetworkSystem.Instance.RoomPlayerCount}`\nMap: `{map}`\nPublic room: `{PhotonNetwork.CurrentRoom.IsVisible}`\nIs Modded: `{NetworkSystem.Instance.GameModeString.Contains("MODDED")}`\nGamemode: `{GetGamemodeKey(NetworkSystem.Instance.GameModeString)}`\nQueue: `{GetQueueKey(NetworkSystem.Instance.GameModeString)}`"",
             ""color"": 7415295,
-            ""image"": {{ ""url"": ""https://raw.githubusercontent.com/axojeff/AxosGorillaInfo/refs/heads/main/JoinLobby.gif"" }},
+            ""image"": {{ ""url"": ""https://images.elliemese.win/JoinLobby.gif"" }},
             ""footer"": {{ ""text"": ""Self Tracker by HanSolo1000Falcon, and Forked by ModdedAxo"" }}
         }}
     ]
@@ -141,7 +141,7 @@ public class Plugin : BaseUnityPlugin
             ""title"": ""{PlayerName.Value} has joined code `{CurrentRoomName}`"",
             ""description"": ""In game name: `{PhotonNetwork.LocalPlayer.NickName}`\nPlayers in room: `{NetworkSystem.Instance.RoomPlayerCount}`\nMap: `{map}`\nPublic room: `{PhotonNetwork.CurrentRoom.IsVisible}`\nIs Modded: `{NetworkSystem.Instance.GameModeString.Contains("MODDED")}`\nGamemode: `{GetGamemodeKey(NetworkSystem.Instance.GameModeString)}`\nQueue: `{GetQueueKey(NetworkSystem.Instance.GameModeString)}`"",
             ""color"": 7415295,
-            ""image"": {{ ""url"": ""https://raw.githubusercontent.com/axojeff/AxosGorillaInfo/refs/heads/main/JoinLobby.gif"" }},
+            ""image"": {{ ""url"": ""https://images.elliemese.win/JoinLobby.gif"" }},
             ""footer"": {{ ""text"": ""Self Tracker by HanSolo1000Falcon, and Forked by ModdedAxo"" }}
         }}
     ]
@@ -158,7 +158,7 @@ public class Plugin : BaseUnityPlugin
         {{
             ""title"": ""{PlayerName.Value} has quit Gorilla Tag"",
             ""color"": 7415295,
-            ""image"": {{ ""url"": ""https://raw.githubusercontent.com/axojeff/AxosGorillaInfo/refs/heads/main/CloseGame.gif"" }},
+            ""image"": {{ ""url"": ""https://images.elliemese.win/CloseGame.gif"" }},
             ""footer"": {{ ""text"": ""Self Tracker by HanSolo1000Falcon, and Forked by ModdedAxo"" }}
         }}
     ]
@@ -180,7 +180,7 @@ public class Plugin : BaseUnityPlugin
         {{
             ""title"": ""{PlayerName.Value} has left the code `{CurrentRoomName}`"",
             ""color"": 7415295,
-            ""image"": {{ ""url"": ""https://raw.githubusercontent.com/axojeff/AxosGorillaInfo/refs/heads/main/LobbyLeaveComputer.gif"" }},
+            ""image"": {{ ""url"": ""https://images.elliemese.win/LobbyLeaveComputer.gif"" }},
             ""footer"": {{ ""text"": ""Self Tracker by HanSolo1000Falcon, and Forked by ModdedAxo"" }}
         }}
     ]

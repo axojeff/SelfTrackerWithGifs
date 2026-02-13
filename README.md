@@ -1,6 +1,6 @@
 This is a fork of HanSolo1000Falcon's mod "Self Tracker", but I added gifs corresponding to what webhook activity you send.
 
-This mod pulls the gifs from https://github.com/axojeff/AxosGorillaInfo, if you'd like to use your own gifs, feel free to make a fork, and redirect all the gifs to your own repo/however you hold your gifs/images. I am planning to add a config so you can change the gifs, but thats for a way later time when I actually know how to code lol.
+This mod pulls the gifs from my website [https://images.elliemese.win/](https://images.elliemese.win/), if you'd like to use your own gifs, feel free to make a fork, and redirect all the gifs to your own repo/your own website/however you hold your gifs/images. I am planning to add a config so you can change the gifs, but thats for a way later time when I actually know how to code lol.
 
 If you want to contact me for any reason, message me on discord. My @ is "@ModdedAxo".
 
